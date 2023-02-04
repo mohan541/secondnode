@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "\"js file\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohan541/secondnode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohan541/secondnode/issues"
+  },
+  "homepage": "https://github.com/mohan541/secondnode#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
